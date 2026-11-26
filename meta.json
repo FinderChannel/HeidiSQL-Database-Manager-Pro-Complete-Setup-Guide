@@ -1,0 +1,23 @@
+{
+  "repo": "heidisql-database-manager-professional-complete-setup-guide",
+  "product": "HeidiSQL Database Manager Pro Complete Setup Guide",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "heidisql-database-pro",
+    "heidisql-database",
+    "database-tools",
+    "how-to-install-heidisql-database",
+    "how-to-setup-heidisql-database",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "heidisql-database-manager"
+  ],
+  "site": "unaflore.co",
+  "product_title": "HeidiSQL Database Manager Pro Complete Setup Guide"
+}
